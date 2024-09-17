@@ -2,3 +2,6 @@ slow-unit*
 crash-*
 oom-*
 examples/*
+base_examples/*
+
+__pycache__
